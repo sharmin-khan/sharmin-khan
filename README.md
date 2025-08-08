@@ -1,6 +1,6 @@
 
 
-![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Sharmin%20Khan&text2=%20A%20Passionate%20Coder,%20Front-end%20Developer%20.&width=900&height=400)
+![SVG Banners](https://i.postimg.cc/d1Qq9sFX/Banner.png)
 
 <h1 align="left"> I'm Sarmin Akter</h1>
 <h3 align="left">frontend developer</h3>
