@@ -2,8 +2,15 @@
 
 ![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Sharmin%20Khan&text2=%20A%20Passionate%20Coder,%20Front-end%20Developer%20.&width=900&height=400)
 
-<h1 align="center">Hi 👋, I'm Sarmin Akter</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h1 align="left"> I'm Sarmin Akter</h1>
+<h3 align="left">frontend developer</h3>
+
+<h3 align="left">About Me</h3>
+<p align="left">
+I’m a passionate frontend developer from Bangladesh specializing in building responsive, user-friendly web applications using React, JavaScript (ES6+), and modern UI frameworks.<br/>
+I enjoy turning ideas into real-world digital products.<br/>
+Always eager to learn and collaborate on innovative projects.
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharmin-khan&label=Profile%20views&color=0e75b6&style=flat" alt="sharmin-khan" /> </p>
 
