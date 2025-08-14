@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/d1Qq9sFX/Banner.png" alt="SVG Banner" width="1000" height="250">
+  <img src="https://i.postimg.cc/d1Qq9sFX/Banner.png" alt="SVG Banner" width="1000" height="350">
 </p>
 
 <h1 align="left"> I'm Sarmin Akter</h1>
