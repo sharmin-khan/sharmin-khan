@@ -14,13 +14,17 @@ Always eager to learn and collaborate on innovative projects.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharmin-khan&label=Profile%20views&color=0e75b6&style=flat" alt="sharmin-khan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharmin-khan" alt="sharmin-khan" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sharmin-khan" alt="sharmin-khan" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on [real-estate-platform](https://real-estate-platform-4dacc.web.app/)
+- 🔭 I’m currently working on [Real Estate Platform](https://real-estate-platform-4dacc.web.app/)
 - 🌱 I’m currently learning **Next.js**
-- 👨‍💻 All of my projects are available at [https://portfolio-4dacc.web.app](https://mellow-duckanoo-07ebbe.netlify.app/)
+- 👨‍💻 All of my projects are available at [sarmin-portfolio](https://sarmin-portfolio.netlify.app)
 - 💬 Ask me about **JavaScript, React**
-- 📫 How to reach me: <a href="mailto:sharminkhancse@gmail.com">sharminkhancse@gmail.com</a>
+- 📫 How to reach me: [sharminkhancse@gmail.com](mailto:sharminkhancse@gmail.com)
 - 📞 Contact Number: +8801883685442
 
 <h3 align="left">Connect with me:</h3>
