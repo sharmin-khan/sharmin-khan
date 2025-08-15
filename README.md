@@ -18,7 +18,7 @@ Always eager to learn and collaborate on innovative projects.
 
 - 🔭 I’m currently working on [real-estate-platform](https://real-estate-platform-4dacc.web.app/)
 - 🌱 I’m currently learning **Next.js**
-- 👨‍💻 All of my projects are available at [https://portfolio-4dacc.web.app](https://portfolio-4dacc.web.app)
+- 👨‍💻 All of my projects are available at [https://portfolio-4dacc.web.app](https://mellow-duckanoo-07ebbe.netlify.app/)
 - 💬 Ask me about **JavaScript, React**
 - 📫 How to reach me: <a href="mailto:sharminkhancse@gmail.com">sharminkhancse@gmail.com</a>
 - 📞 Contact Number: +8801883685442
