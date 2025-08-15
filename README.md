@@ -20,7 +20,7 @@ Always eager to learn and collaborate on innovative projects.
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-4dacc.web.app/](https://portfolio-4dacc.web.app/)
+- 👨‍💻 All of my projects are available at([https://portfolio-4dacc.web.app](https://mellow-duckanoo-07ebbe.netlify.app/)
 
 - 💬 Ask me about **JavaScript,React**
 
