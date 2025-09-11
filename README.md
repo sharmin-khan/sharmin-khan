@@ -22,12 +22,21 @@ I love turning ideas into real-world digital products and always eager to learn 
 </p>
 
 <h3 align="left">🚀 Current Work & Learning</h3>
-- 🔭 I’m currently working on [Real Estate Platform](https://real-estate-platform-4dacc.web.app/)  
+
+- 🔭 I’m currently working on  
+  [Real Estate Platform](https://real-estate-platform-4dacc.web.app/)  
+
 - 🌱 I’m currently learning **Next.js**  
-- 👨‍💻 All of my projects are available at [My Portfolio](https://sarmin-portfolio.netlify.app)  
+
+- 👨‍💻 All of my projects are available at  
+  [My Portfolio](https://sarmin-portfolio.netlify.app)  
+
 - 💬 Ask me about **JavaScript, React**  
-- 📫 How to reach me: [sharminkhancse@gmail.com](mailto:sharminkhancse@gmail.com)  
-- 📞 Contact Number: +8801883685442  
+
+- 📫 How to reach me:  
+  [sharminkhancse@gmail.com](mailto:sharminkhancse@gmail.com)  
+
+ 
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
