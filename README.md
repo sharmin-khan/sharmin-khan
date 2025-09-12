@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/sXQLrC1S/Banner.png" alt="Banner" width="100%" style="max-width:900px;">
+  <img src="https://i.postimg.cc/bv4N98tF/hero.png" alt="Banner" width="100%" style="max-width:900px;">
 </p>
 
 <h1 align="left">Hi, I'm Sarmin Akter</h1>
